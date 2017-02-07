@@ -23,7 +23,7 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "lodash": "^3.10.1 || ^4.11.1",
-    "react": "^15.0.0-0",
+    "react": "^15.0.0-0 || ^16.0.0-0",
     "react-prop-types": "^0.4.0"
   },
   "devDependencies": {
