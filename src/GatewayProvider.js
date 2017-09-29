@@ -8,10 +8,6 @@ export default class GatewayProvider extends React.Component {
     };
   }
 
-  static propTypes = {
-    children: React.PropTypes.element,
-  };
-
   constructor(props, context) {
     super(props, context);
     this.gatewayRegistry = new GatewayRegistry();
